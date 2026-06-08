@@ -1,0 +1,1 @@
+"""CryptoBot game bot package."""
